@@ -193,13 +193,13 @@ h6 {
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  color: #5cb874;
+  color: red;
   padding: 8px 25px;
   margin-left: 30px;
   border-radius: 4px;
   border: 2px solid #5cb874;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .navbar .getstarted:hover,
